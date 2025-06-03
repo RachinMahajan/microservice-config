@@ -1,7 +1,5 @@
 spring:
-  application:
-    name: Config-Default
-  datasource:
+   datasource:
     url: jdbc:mysql://localhost:3306/microservices
     username: root
     password: root
